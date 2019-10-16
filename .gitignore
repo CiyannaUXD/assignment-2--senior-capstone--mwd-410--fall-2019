@@ -1,7 +1,2 @@
-*
-
-!.gitignore
-!README.md
-!links-to-student-repos-containing-initial-sprint.md
-!data.json
-!app/
+.DS_Store
+node_modules/
